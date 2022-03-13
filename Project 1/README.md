@@ -2,8 +2,6 @@
 
 **Counting Mutual Web Linkage Occurences**
 
-**Candidate 15113**
-
 For project description click [here](https://www.uio.no/studier/emner/matnat/ifi/IN3200/v20/teaching-material/in3200_in4200_home_exam1_v20.pdf)
 
 ## Content:
